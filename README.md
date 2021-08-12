@@ -1,0 +1,2 @@
+# deskmini
+EFI
